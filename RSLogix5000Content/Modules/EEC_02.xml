@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module Name="EEC_02" CatalogNumber="1756-CMEE1Y1/A" Vendor="1" ProductType="144" ProductCode="8" Major="1" Minor="20" ParentModule="Local" ParentModPortId="1" Inhibited="false" MajorFault="false" SafetyEnabled="false" DataExchangeId="{E7BC1255-2E89-4BA6-8549-1F4371A37F6B}">
+  <EKey State="CompatibleModule" />
+  <Ports>
+    <Port Id="1" Address="2" Type="ICP" Upstream="true" />
+    <Port Id="2" Type="Ethernet" Upstream="false">
+      <Bus />
+    </Port>
+  </Ports>
+  <ExtendedProperties>
+    <public>
+      <Vendor>Rockwell Automation/Allen-Bradley</Vendor>
+      <CatNum>1756-CMEE1Y1</CatNum>
+      <ConfigID>4325587</ConfigID>
+    </public>
+  </ExtendedProperties>
+</Module>

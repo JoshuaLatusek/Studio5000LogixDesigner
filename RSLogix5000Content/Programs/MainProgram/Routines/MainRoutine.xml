@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Routine Name="MainRoutine" Type="RLL">
+  <RLLContent>
+    <Rung Type="N">
+      <Text><![CDATA[XIC(Lamp_On_Off)OTE(Output);]]></Text>
+    </Rung>
+  </RLLContent>
+</Routine>
