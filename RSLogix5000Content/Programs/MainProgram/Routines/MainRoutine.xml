@@ -4,5 +4,8 @@
     <Rung Type="N">
       <Text><![CDATA[XIC(Lamp_On_Off)OTE(Output);]]></Text>
     </Rung>
+    <Rung Type="N">
+      <Text><![CDATA[XIC(Test3)JSR(ST,0);]]></Text>
+    </Rung>
   </RLLContent>
 </Routine>
