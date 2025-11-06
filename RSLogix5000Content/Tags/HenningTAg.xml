@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Tag Name="Test" Class="Standard" TagType="Base" DataType="DINT" Radix="Decimal" Constant="false" ExternalAccess="Read/Write" OpcUaAccess="None">
+<Tag Name="HenningTAg" Class="Standard" TagType="Base" DataType="DINT" Radix="Decimal" Constant="false" ExternalAccess="Read/Write" OpcUaAccess="None">
   <Data Format="L5K"><![CDATA[0]]></Data>
   <Data Format="Decorated">
     <DataValue DataType="DINT" Radix="Decimal" Value="0" />
